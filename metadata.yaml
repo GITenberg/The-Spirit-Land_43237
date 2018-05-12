@@ -1,0 +1,28 @@
+_repo: The-Spirit-Land_43237
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43237-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Emmons, Samuel B. (Samuel Bulfinch)
+    aliases:
+    - Emmons, S. Bulfinch (Samuel Bulfinch)
+    - Emmons, S. B. (Samuel Bulfinch)
+    gutenberg_agent_id: '42087'
+    url: http://www.gutenberg.org/2009/agents/42087
+description: ''
+gutenberg_issued: '2013-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- !lcsh 'Occultism -- Early works to 1900'
+title: The Spirit Land
+url: http://www.gutenberg.org/ebooks/43237
