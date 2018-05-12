@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42087'
     url: http://www.gutenberg.org/2009/agents/42087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43237#The-Spirit-Land
 gutenberg_issued: '2013-07-17'
 gutenberg_type: Text
 identifiers:
